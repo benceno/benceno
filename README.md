@@ -1,5 +1,5 @@
 <!-- Encabezado principal -->
-<h1 align="center">👋 ¡Hola! Soy Eduardo Ruben Elias Hernandez Gonzalez</h1>
+<h1 align="center">👋 ¡Hola! Soy Eduardo Rubén Elías Hernández González</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
@@ -22,17 +22,17 @@ Me encanta construir aplicaciones web con **Laravel** y **Bootstrap**, y tambié
 
 | Repositorio | Descripción |
 |-------------|-------------|
-| [**Maestria**](https://github.com/tuusuario/Maestria) | Proyecto con enfoque académico, usando C++, Laravel y PHP. |
-| [**bibliio**](https://github.com/tuusuario/bibliio) | Sistema de gestión de biblioteca desarrollado con Blade y Laravel. |
-| [**benceno**](https://github.com/tuusuario/benceno) | Proyecto personal (edita tu perfil). |
+| [**Maestria**](https://github.com/benceno/Maestria) | Proyecto con enfoque académico, usando C++, Laravel y PHP. |
+| [**bibliio**](https://github.com/benceno/bibliio) | Sistema de gestión de biblioteca desarrollado con Blade y Laravel. |
+| [**benceno**](https://github.com/benceno/benceno) | Proyecto personal (edita tu perfil). |
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benceno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benceno&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
