@@ -72,7 +72,7 @@ Me encanta construir aplicaciones web con **Laravel** y **Bootstrap**, y tambié
 
 ## 📫 ¿Cómo contactarme?
 
-- GitHub: [@tuusuario](https://github.com/benceno)
+- GitHub: [@benceno](https://github.com/benceno)
 - email: sistemaselias@gmail.com
 - (Agrega aquí tu correo, LinkedIn u otras redes si quieres)
 
