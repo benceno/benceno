@@ -74,6 +74,7 @@ Me encanta construir aplicaciones web con **Laravel** y **Bootstrap**, y tambié
 
 - GitHub: [@benceno](https://github.com/benceno)
 - email: sistemaselias@gmail.com
+- linkedin:[@Elias](www.linkedin.com/in/eduardo-ruben-elias-hernandez-gonzalez-36586966)
 - (Agrega aquí tu correo, LinkedIn u otras redes si quieres)
 
 ---
