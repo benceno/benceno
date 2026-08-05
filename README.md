@@ -40,7 +40,7 @@ Me encanta construir aplicaciones web con **Laravel** y **Bootstrap**, y tambié
 ## 🔥 Contribuciones en el último año
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuusuario&theme=rogue" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benceno&theme=rogue" />
 </div>
 
 ---
