@@ -13,8 +13,8 @@
 
 ## 🚀 Sobre mí
 
-Desarrollador apasionado por el ecosistema **PHP** y **C++**.  
-Me encanta construir aplicaciones web con **Laravel** y **Bootstrap**, y también explorar proyectos de escritorio con **C++**.
+Desarrollador apasionado por el ecosistema **PHP** y **C/C++**.  
+Me encanta construir aplicaciones web con **Laravel** y **Bootstrap**, y también explorar proyectos de escritorio con **C/C++**.
 
 ---
 
@@ -66,7 +66,8 @@ Me encanta construir aplicaciones web con **Laravel** y **Bootstrap**, y tambié
 
 ## 📫 ¿Cómo contactarme?
 
-- GitHub: [@tuusuario](https://github.com/tuusuario)
+- GitHub: [@tuusuario](https://github.com/benceno)
+- email: sistemaselias@gmail.com
 - (Agrega aquí tu correo, LinkedIn u otras redes si quieres)
 
 ---
