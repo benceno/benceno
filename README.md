@@ -35,14 +35,6 @@ Me encanta construir aplicaciones web con **Laravel** y **Bootstrap**, y tambié
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benceno&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 🔥 Contribuciones y actividad
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benceno&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benceno&layout=compact&langs_count=7&theme=radical"/>
-</div>
----
-
 ## 🔥 Contribuciones en el último año
 
 <div align="center">
