@@ -6,10 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Eduardo%20Rubén%20Elías%20Hernández&fontAlignY=38&fontColor=ffffff&fontSize=38&desc=Desarrollador%20Backend%20|%20Laravel%20|%20PHP%20|%20C%2FC%2B%2B&descAlignY=58"/>
 </p>
 
-<h1 align="center">
-👋 ¡Hola! Soy Eduardo Rubén Elías Hernández González
-</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Desarrollador+Backend;Laravel+%7C+PHP+%7C+C%2B%2B;Apasionado+por+la+programación;Siempre+aprendiendo+nuevas+tecnologías" />
 </p>
