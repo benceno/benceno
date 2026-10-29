@@ -1,0 +1,19 @@
+name: Actualizar Insignias de Credly
+
+on:
+  schedule:
+    # Se ejecuta todos los días a la medianoche
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v3
+
+      - name: Actualizar README con Credly
+        uses: kpab/credly-readme@v1
+        with:
+          credly_user: eduardo-ruben-elias-hernandez-gonzalez # <- Reemplaza esto con tu usuario de Credly
