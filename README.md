@@ -46,10 +46,10 @@
 # 🚀 Tecnologías
 
 ### Redes Cisco
-<p>
+<p></p>
   <!-- badges:start -->
   <!-- badges:end -->
-</p>
+
 
 
 ### Lenguajes
