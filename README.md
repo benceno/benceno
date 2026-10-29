@@ -45,6 +45,13 @@
 
 # 🚀 Tecnologías
 
+### Redes Cisco
+<p>
+  <!-- CREDLY-BADGES:START -->
+  <!-- CREDLY-BADGES:END -->
+
+</p>
+
 ### Lenguajes
 
 <p>
