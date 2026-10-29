@@ -46,9 +46,10 @@
 # 🚀 Tecnologías
 
 ### Redes Cisco
-<p></p>
-<!-- CREDLY-BADGES:START -->
-<!-- CREDLY-BADGES:END -->
+<p>
+  <!-- badges:start -->
+  <!-- badges:end -->
+</p>
 
 
 ### Lenguajes
