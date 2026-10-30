@@ -1,19 +1,26 @@
-name: Actualizar Insignias de Credly
-
+name: Update Credly Badges
 on:
   schedule:
-    # Se ejecuta todos los días a la medianoche
-    - cron: '0 0 * * *'
+    - cron: "0 9 * * 1" # Se ejecuta todos los lunes a las 9 AM UTC
   workflow_dispatch: # Permite ejecutarlo manualmente
-
+permissions:
+  contents: write
 jobs:
   update-badges:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout del repositorio
-        uses: actions/checkout@v3
-
-      - name: Actualizar README con Credly
-        uses: kpab/credly-readme@v1
+      - uses: actions/checkout@v4
+      - name: Update Credly badges
+        uses: Sagargupta16/credly-badge-readme-action@v1
         with:
-          credly_user: eduardo-ruben-elias-hernandez-gonzalez # <- Reemplaza esto con tu usuario de Credly
+          credly-username: "eduardo-ruben-elias-hernandez-gonzalez"
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update Credly badges"
+            git push
+          fi
+         
