@@ -47,6 +47,8 @@
 
 ### Redes Cisco
 <p>
+   <!-- CREDLY-BADGES:START -->
+   <!-- CREDLY-BADGES:END -->
   <!-- badges:start -->
   <!-- badges:end -->
 </p>
