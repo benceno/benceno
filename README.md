@@ -65,9 +65,7 @@
 <a href="https://www.credly.com/badges/ce02d08d-0f3f-485e-890d-e04ecff777b4" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="100" height="100"></a>
 
 </div>
-<!-- CREDLY-BADGES:END -->
-  <!-- badges:start -->
-  <!-- badges:end -->
+<!-- CREDLY-BADGES:END --> 
 </p>
 
 
