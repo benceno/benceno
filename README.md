@@ -48,7 +48,24 @@
 ### Redes Cisco
 <p>
    <!-- CREDLY-BADGES:START -->
-   <!-- CREDLY-BADGES:END -->
+📚 **Knowledge & Learning Badges**
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/1dc8342a-0bed-449f-aa68-6d0d3955ac93" title="CCNA: Enterprise Networking, Security, and Automation"><img src="https://images.credly.com/size/100x100/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="CCNA: Enterprise Networking, Security, and Automation" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/225cbddb-216d-466e-8bf9-ef196dc6a27c" title="CCNA: Switching, Routing, and Wireless Essentials"><img src="https://images.credly.com/size/100x100/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA: Switching, Routing, and Wireless Essentials" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/95159a8a-22ad-4e82-bfde-44584fa73e1f" title="Networking Basics"><img src="https://images.credly.com/size/100x100/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/fccae791-016c-4fb4-9ac1-edbebcfe425d" title="Cisco Networking Academy Learn-A-Thon 2026"><img src="https://images.credly.com/size/100x100/images/7bf55491-f0df-488f-84bf-4d51ada45316/blob" alt="Cisco Networking Academy Learn-A-Thon 2026" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/50662ceb-5c90-4d2b-a1f1-1ef11d7eedf7" title="Cisco Networking Academy Capture the Flag 2026"><img src="https://images.credly.com/size/100x100/images/f3534616-ba00-42b2-bdb6-8a8420e5405a/blob" alt="Cisco Networking Academy Capture the Flag 2026" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/f4244f87-713b-4752-ab9b-387116a40d93" title="Networking Academy Learn-A-Thon 2025"><img src="https://images.credly.com/size/100x100/images/8bf3e17f-1982-4539-a1f7-ba85c749407a/blob" alt="Networking Academy Learn-A-Thon 2025" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/924ebd61-fca4-411b-aec8-cffb0b09203e" title="Ethical Hacker"><img src="https://images.credly.com/size/100x100/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/ed43c092-10d0-437e-89e7-dfb45f04d215" title="Project Management Essentials"><img src="https://images.credly.com/size/100x100/images/4d7038ef-658b-4ef8-8627-e0af45963c7e/image.png" alt="Project Management Essentials" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/125ed254-465e-41d2-b30d-22ab90e91539" title="Introduction to IoT"><img src="https://images.credly.com/size/100x100/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Introduction to IoT" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/8738525c-0a2a-40a6-8bd3-0cb36ce41c2b" title="Networking Academy Learn-A-Thon 2020"><img src="https://images.credly.com/size/100x100/images/6f20f78c-c26c-4536-9d4c-4fb60cbe4044/learnathon.png" alt="Networking Academy Learn-A-Thon 2020" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/ce02d08d-0f3f-485e-890d-e04ecff777b4" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="100" height="100"></a>
+
+</div>
+<!-- CREDLY-BADGES:END -->
   <!-- badges:start -->
   <!-- badges:end -->
 </p>
